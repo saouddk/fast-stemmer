@@ -1,4 +1,4 @@
-require 'stemmer'
+require_relative 'stemmer'
 
 class String
   def stem
